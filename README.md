@@ -1,13 +1,13 @@
 # Hi 👋, I'm Kothapeta Monika
 
-### Software Engineer | Java | SQL | Spring Boot | PL/SQL
+### Software Engineer | SQL Developer | PL/SQL Developer |Java | Spring Boot 
 
 I am passionate about building applications and continuously learning new technologies.
 
 ## 👩‍💻 Skills
-- Java
 - SQL
 - PL/SQL
+- Java
 - Spring Boot
 - HTML
 - CSS
