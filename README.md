@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Kothapeta Monika
 
-<!--
-**kothapetamonika/kothapetamonika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java | SQL | Spring Boot | PL/SQL
 
-Here are some ideas to get you started:
+I am passionate about building applications and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Skills
+- Java
+- SQL
+- PL/SQL
+- Spring Boot
+- HTML
+- CSS
+- Git & GitHub
+
+## 📚 Currently Learning
+- Advanced SQL
+- Spring Boot
+- Database Design
+
+## 🚀 Projects
+
+### Student Course Management System
+- Database design using SQL
+- CRUD operations
+- Stored Procedures and Joins
+
+### Spring Boot CRUD Application
+- Developed using Spring Boot and Thymeleaf
+- Database integration
+
+## 🏆 Coding Profiles
+
+- HackerRank: https://www.hackerrank.com/profile/MONIKA_KOTHAPETA
+- LinkedIn: https://www.linkedin.com/in/kothapeta-monika-514793266/
+
+## 📫 Contact
+
+Feel free to connect with me on LinkedIn.
