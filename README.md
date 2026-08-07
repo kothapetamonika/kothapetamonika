@@ -34,4 +34,5 @@ I am passionate about building applications and continuously learning new techno
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/kothapeta-monika-514793266/
+
 Feel free to connect with me on LinkedIn.
