@@ -1,22 +1,20 @@
 # Hi 👋, I'm Kothapeta Monika
 
-### Software Engineer | SQL Developer | PL/SQL Developer |Java | Spring Boot 
+### Software Engineer | SQL Developer | PL/SQL Developer |Java | HTML | CSS
 
 I am passionate about building applications and continuously learning new technologies.
 
 ## 👩‍💻 Skills
 - SQL
 - PL/SQL
-- Java
-- Spring Boot
+- Core Java
 - HTML
 - CSS
 - Git & GitHub
 
 ## 📚 Currently Learning
-- Advanced SQL
-- Spring Boot
-- Database Design
+- Advanced SQL and PL/SQL
+- Oracle Apex
 
 ## 🚀 Projects
 
@@ -32,8 +30,8 @@ I am passionate about building applications and continuously learning new techno
 ## 🏆 Coding Profiles
 
 - HackerRank: https://www.hackerrank.com/profile/MONIKA_KOTHAPETA
-- LinkedIn: https://www.linkedin.com/in/kothapeta-monika-514793266/
 
 ## 📫 Contact
 
+- LinkedIn: https://www.linkedin.com/in/kothapeta-monika-514793266/
 Feel free to connect with me on LinkedIn.
