@@ -5,16 +5,17 @@
 I am passionate about building applications and continuously learning new technologies.
 
 ## 👩‍💻 Skills
-- SQL
-- PL/SQL
+- Oracle SQL
+- Oracle PL/SQL
 - Core Java
 - HTML
 - CSS
+- Bootstrap
 - Git & GitHub
 
 ## 📚 Currently Learning
 - Advanced SQL and PL/SQL
-- Oracle Apex
+- Power BI
 
 ## 🚀 Projects
 
